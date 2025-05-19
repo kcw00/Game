@@ -1,4 +1,4 @@
-# 🏓 Pong game
+# 🏓 Pong game (Built from scratch in 2021)
 
 A classic Pong-style game built with **C++** and **SDL2** libraries. The player controls the paddle using the keyboard to keep the ball in play
 
